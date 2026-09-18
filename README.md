@@ -1,7 +1,6 @@
 # Gemini on the terminal
 
-Python script that allows gemini to be used on the terminal.
-
+Python script that allows gemini to be used on the terminal. As seen on: https://www.instagram.com/reel/Dbk3T99Cuj9/?stkn=MXhraDNqZDgwZmFsYg==
 
 ## Installation
 
